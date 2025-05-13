@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the constructuion of a University modular system<br>👯 I’m looking to collaborate on Education systems<br>🌱 I’m currently learning distributed system design 
+🔭 I’m currently working on the constructuion of a University modular system<br>👯 I’m looking to collaborate on Education systems<br> 
 
 
 ## 🌐 Socials:
